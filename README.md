@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gabrielmurry.com/](https://gabrielmurry.com/)
 
-- 💬 Ask me about **React, MERN, Django**
+- 💬 Ask me about **React, Django, PostgreSQL**
 
 - 📫 How to reach me **gabrielmurry.work@gmail.com**
 
