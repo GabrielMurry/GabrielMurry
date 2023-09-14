@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Murry</h1>
 <h3 align="center">Passionate full-stack developer. Recent graduate from Santa Clara University's Leavey School of Business.</h3>
 
-- 🔭 I’m currently working on **Spray**
+- 🔭 I’m currently working on **Climber's Eye - A way to easily share, track, and create boulders on a spray wall**
 
 - 🌱 I’m currently learning **React Native**
 
