@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **gabrielmurry.work@gmail.com**
 
-- ⚡ Fun fact **I'm a Boulder Bro (Rock Climber)**
+- ⚡ Fun fact **I'm a Boulder Bro**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
