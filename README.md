@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Murry</h1>
-<h3 align="center">Passionate full-stack developer. Recent graduate from Santa Clara University's Leavey School of Business.</h3>
+<h3 align="center">Passionate full-stack developer. Recent graduate from Santa Clara University's Leavey School of Business - BSC in Economics emphasizing data analysis, econometrics, and statistcs.</h3>
 
 - 🔭 I’m currently working on **Climber's Eye - Easily create, share, and track your boulders on a spray wall**
 
