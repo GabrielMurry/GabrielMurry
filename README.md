@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Climber's Eye - Easily create, share, and track your boulders on a gym spray wall or home wall**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, Django, and DevOps**
 
 - 👨‍💻 All of my projects are available at [https://gabrielmurry.com/](https://gabrielmurry.com/)
 
